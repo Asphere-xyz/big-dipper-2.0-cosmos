@@ -1,0 +1,269 @@
+{
+  "chainName": "tac",
+  "title": "TAC Block Explorer",
+  "extra": {
+    "profile": false,
+    "graphqlWs": false
+  },
+  "previewImage": "",
+  "themes": {
+    "default": "light",
+    "themeList": [
+      "dark",
+      "light"
+    ],
+    "dark": {
+      "primary": {
+        "main": "#91029B",
+        "contrastText": "#F2EBFF"
+      },
+      "background": {
+        "default": "#1E162C",
+        "paper": "#131316"
+      },
+      "divider": "#282828",
+      "text": {
+        "primary": "#E6E6E6",
+        "secondary": "#C4C4C4"
+      },
+      "custom": {
+        "general": {
+          "background": "#1E162C",
+          "surfaceOne": "#131316",
+          "surfaceTwo": "#212123",
+          "icon": "#999999"
+        },
+        "fonts": {
+          "fontOne": "#50DFF1",
+          "fontTwo": "#C4C4C4",
+          "fontThree": "#818181",
+          "fontFour": "#999999",
+          "fontFive": "#FFFFFF",
+          "highlight": "#4092CD"
+        },
+        "primaryData": {
+          "one": "#91029B",
+          "two": "#2A55B8",
+          "three": "#69BA58",
+          "four": "#E5B85D"
+        },
+        "results": {
+          "pass": "#1EC490",
+          "fail": "#FD3B4C"
+        },
+        "tokenomics": {
+          "one": "#43A1BE",
+          "two": "#E3BB55",
+          "three": "#20D292"
+        },
+        "condition": {
+          "zero": "#E6E6E6",
+          "one": "#1EC490",
+          "two": "#FF9338",
+          "three": "#FF608A"
+        },
+        "charts": {
+          "zero": "#E6E6E6",
+          "one": "#43BE7C",
+          "two": "#FA9147",
+          "three": "#F44747",
+          "four": "#43A1BE",
+          "five": "#C25396"
+        },
+        "tags": {
+          "zero": "#E8E8E8",
+          "one": "#2460FA",
+          "two": "#2BA897",
+          "three": "#E79726",
+          "four": "#F17053",
+          "five": "#DA4B4B",
+          "six": "#9438DC",
+          "seven": "#1A869D",
+          "eight": "#2C9950",
+          "nine": "#B49F37",
+          "ten": "#E9A852",
+          "eleven": "#E94687",
+          "twelve": "#C15EC4",
+          "thirteen": "#C388D9",
+          "fourteen": "#46AEE9",
+          "fifteen": "#58BC91",
+          "sixteen": "#90BC58",
+          "seventeen": "#E99E8E",
+          "eighteen": "#F0A479",
+          "nineteen": "#D37763",
+          "twenty": "#D9C788"
+        },
+        "wallet": {
+          "background": "#1E162C",
+          "backgroundTwo": "#212123",
+          "surfaceOne": "#5E5C5C",
+          "surfaceTwo": "#D9D9D9",
+          "surfaceThree": "#4D4D4D",
+          "surfaceFour": "#414141",
+          "surfaceFive": "#777777",
+          "divider": "#34383E",
+          "textPrimary": "#000000",
+          "textSecondary": "#DDDDDD"
+        }
+      }
+    },
+    "light": {
+      "primary": {
+        "main": "#91029B",
+        "contrastText": "#F2EBFF"
+      },
+      "background": {
+        "default": "#F2EBFF",
+        "paper": "#FFFFFF"
+      },
+      "divider": "#E8E8E8",
+      "text": {
+        "primary": "#000000",
+        "secondary": "#414141"
+      },
+      "custom": {
+        "general": {
+          "background": "#F8F8F8",
+          "surfaceOne": "#FFFFFF",
+          "surfaceTwo": "#F8F8F8",
+          "icon": "#999999"
+        },
+        "fonts": {
+          "fontOne": "#000000",
+          "fontTwo": "#414141",
+          "fontThree": "#777777",
+          "fontFour": "#999999",
+          "fontFive": "#FFFFFF",
+          "highlight": "#4092CD"
+        },
+        "primaryData": {
+          "one": "#91029B",
+          "two": "#2A55B8",
+          "three": "#69BA58",
+          "four": "#E5B85D"
+        },
+        "results": {
+          "pass": "#1EC490",
+          "fail": "#FD3B4C"
+        },
+        "tokenomics": {
+          "one": "#2FB6E0",
+          "two": "#FFC93D",
+          "three": "#69BA58"
+        },
+        "condition": {
+          "zero": "#E6E6E6",
+          "one": "#1EC490",
+          "two": "#FF9338",
+          "three": "#FF608A"
+        },
+        "charts": {
+          "zero": "#E6E6E6",
+          "one": "#69BA58",
+          "two": "#FF8732",
+          "three": "#F44747",
+          "four": "#2FB6E0",
+          "five": "#E95EB1"
+        },
+        "tags": {
+          "zero": "#E8E8E8",
+          "one": "#2460FA",
+          "two": "#2BA891",
+          "three": "#E79720",
+          "four": "#F17047",
+          "five": "#DA4B4B",
+          "six": "#9438DC",
+          "seven": "#1A869D",
+          "eight": "#2C9944",
+          "nine": "#B49F31",
+          "ten": "#E9A846",
+          "eleven": "#E94681",
+          "twelve": "#C15EC4",
+          "thirteen": "#C388D9",
+          "fourteen": "#46AEE9",
+          "fifteen": "#58BC91",
+          "sixteen": "#90BC58",
+          "seventeen": "#E99E8E",
+          "eighteen": "#F0A479",
+          "nineteen": "#D37763",
+          "twenty": "#D9C788"
+        },
+        "wallet": {
+          "background": "#F2EBFF",
+          "backgroundTwo": "#FFFFFF",
+          "surfaceOne": "#5E5C5C",
+          "surfaceTwo": "#E8E7E8",
+          "surfaceThree": "#BDBDBD",
+          "surfaceFour": "#A1A1A1",
+          "surfaceFive": "#777777",
+          "divider": "#34383E",
+          "textPrimary": "#000000",
+          "textSecondary": "#222222"
+        }
+      }
+    }
+  },
+  "keplr": "{\"chainId\":\"tacturin-2390_1\",\"chainName\":\"TAC\",\"chainSymbolImageUrl\":\"https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/tac-turin/chain.png\",\"rpc\":\"https://rpc.turin.tac.network\",\"rest\":\"https://api.turin.tac.network\",\"nodeProvider\":{\"name\":\"Asphere\",\"email\":\"info@asphere.xyz\",\"website\":\"https://www.asphere.xyz\"},\"bip44\":{\"coinType\":852},\"bech32Config\":{\"bech32PrefixAccAddr\":\"tac\",\"bech32PrefixAccPub\":\"tacpub\",\"bech32PrefixValAddr\":\"tacvaloper\",\"bech32PrefixValPub\":\"tacvaloperpub\",\"bech32PrefixConsAddr\":\"tacvalcons\",\"bech32PrefixConsPub\":\"tacvalconspub\"},\"currencies\":[{\"coinDenom\":\"TAC\",\"coinMinimalDenom\":\"utac\",\"coinDecimals\":18,\"coinGeckoId\":\"tac\"}],\"feeCurrencies\":[{\"coinDenom\":\"TAC\",\"coinMinimalDenom\":\"utac\",\"coinDecimals\":18,\"coinGeckoId\":\"tac\",\"gasPriceStep\":{\"low\":0.01,\"average\":0.03,\"high\":0.05}}],\"stakeCurrency\":{\"coinDenom\":\"TAC\",\"coinMinimalDenom\":\"utac\",\"coinDecimals\":18,\"coinGeckoId\":\"tac\"},\"features\":[]}",
+  "chains": [
+    {
+      "network": "tac-mainnet",
+      "chainType": "Mainnet",
+      "genesis": {
+        "time": "2021-08-31T16:15:00",
+        "height": 1
+      },
+      "prefix": {
+        "consensus": "tacvalcons",
+        "validator": "tacvaloper",
+        "account": "tac"
+      },
+      "primaryTokenUnit": "utac",
+      "votingPowerTokenUnit": "utac",
+      "tokenUnits": {
+        "utac": {
+          "display": "tac",
+          "exponent": 18
+        }
+      },
+      "endpoints": {
+        "graphql": "https://gql.tac.asphere.xyz/v1/graphql",
+        "graphqlWebsocket": "wss://gql.tac.asphere.xyz/v1/graphql",
+        "publicRpcWebsocket": "wss://rpc.tac.asphere.xyz/websocket"
+      },
+      "marketing": {
+        "matomoURL": "https://analytics.bigdipper.live",
+        "matomoSiteID": "8"
+      }
+    },
+    {
+      "network": "Turin",
+      "chainType": "Testnet",
+      "genesis": {
+        "time": "2022-10-24T08:00:00",
+        "height": 7942286
+      },
+      "prefix": {
+        "consensus": "tacvalcons",
+        "validator": "tacvaloper",
+        "account": "tac"
+      },
+      "primaryTokenUnit": "utac",
+      "votingPowerTokenUnit": "utac",
+      "tokenUnits": {
+        "utac": {
+          "display": "tac",
+          "exponent": 18
+        }
+      },
+      "endpoints": {
+        "graphql": "https://gql-morpheus.tac.asphere.xyz/v1/graphql",
+        "graphqlWebsocket": "wss://gql-morpheus.tac.asphere.xyz/v1/graphql",
+        "publicRpcWebsocket": "wss://rpc-morpheus.tac.asphere.xyz/websocket"
+      },
+      "marketing": {
+        "matomoURL": "https://analytics.bigdipper.live",
+        "matomoSiteID": "8"
+      }
+    }
+  ]
+}
